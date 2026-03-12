@@ -13,7 +13,7 @@ Bu depo, Biyomedikal Mühendisliği çalışmalarımda veri analizi ve bilimsel 
 ### 3. Advanced Algorithms
 - **`matrix_logic_challenge.py`**: Karmaşık veri setlerini filtreleme, matrisleri yeniden şekillendirme ve çapraz eşleşme algoritmaları.
 
-### ### 4. Pandas Data Analysis
+### 4. Pandas Data Analysis
 - **`biomedical_data_wrangling.py`**: Klinik veri tablolarının işlenmesi, eksik veri yönetimi (NaN), sağlık risk skorlaması ve Pandas kütüphanesi ile veri manipülasyonu.
 
 ## 💻 Kullanılan Teknolojiler
