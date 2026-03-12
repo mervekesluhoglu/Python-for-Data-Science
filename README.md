@@ -16,10 +16,14 @@ Bu depo, Biyomedikal Mühendisliği çalışmalarımda veri analizi ve bilimsel 
 ### 4. Pandas Data Analysis
 - **`biomedical_data_wrangling.py`**: Klinik veri tablolarının işlenmesi, eksik veri yönetimi (NaN), sağlık risk skorlaması ve Pandas kütüphanesi ile veri manipülasyonu.
 
+### 5. Data Visualization
+- **`medical_visualization.py`**: İris ve Meme Kanseri veri setlerinin histogram, scatter ve subplot teknikleriyle görselleştirilmesi; tanısal veri analizi sunumu.
+
 ## 💻 Kullanılan Teknolojiler
 - **Python 3.x**
 - **NumPy** (Bilimsel hesaplamalar için)
 - **Pandas** (Veri analizi ve tablo yönetimi için)
+- **Matplotlib** (Veri görselleştirme ve grafik çizimi için)
 
 ---
 *"Veri, biyomedikal dünyasının yeni mikroskobudur."*
